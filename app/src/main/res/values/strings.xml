@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    //home screen
+    <string name="logo_name">Movie App</string>
+
+    //search screen
+    <string name="search">Search</string>
+</resources>
